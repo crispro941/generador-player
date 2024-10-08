@@ -14,15 +14,18 @@ Este proyecto es un generador de reproductor de radio en línea que permite a lo
 ### 1. Formulario de entrada
 El usuario completa el formulario con los datos de su radio, como se muestra a continuación:
 
-![Formulario de Entrada](https://i.postimg.cc/3k5Q4yJs/formulario.jpg)
+![Formulario de Entrada](https://github.com/user-attachments/assets/5a1c1db4-21d2-4f77-b184-a7c8f4348232)
+
 
 ### 2. Respuesta de el formulario
 Despues de haber enviado el formulario, se muestra este mensaje con un enlace al reproductor:
 
-![Respuesta de el formulario](https://i.postimg.cc/7fTyZ1D1/exito.jpg)
+![Respuesta de el formulario](https://github.com/user-attachments/assets/b43f4edf-a0ba-4a9d-abce-82c6a483aa6d)
+
 
 ### 3. Reproductor generado
 Una vez que el formulario es enviado, se genera un reproductor de radio personalizado:
 
-![Reproductor de Radio](https://i.postimg.cc/HrwDQprV/reproductor.jpg)
+![Reproductor de Radio](https://github.com/user-attachments/assets/f9da3154-59b1-4a91-a75e-839f8f479670)
+
 
