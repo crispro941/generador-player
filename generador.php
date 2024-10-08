@@ -49,7 +49,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>$nombreRadio</title>
-    <link rel="shortcut icon" href="imagenes/radio-imagen-shortcut.png" />
+    <link rel="shortcut icon" href="$urlLogo" />
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
 
